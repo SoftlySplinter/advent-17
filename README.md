@@ -1,2 +1,1 @@
-# advent-17
-Advent of code 20
+# Advent of code 2017
